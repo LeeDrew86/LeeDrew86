@@ -3,8 +3,9 @@
 
 ## Skills
 
-<span style="color:blue"><strong>AWS Solutions Architect Associate (August 2023)</strong></span>
+<span style="color:blue">
 
+- AWS Solutions Architect Associate (August 2023)
 - Proficient in AWS services, including EC2, S3, Lambda, and more.
 - Familiar with Linux, Bash scripting, Terraform, and CI/CD.
 - Strong transferable skills gained from over 10 years in education.
