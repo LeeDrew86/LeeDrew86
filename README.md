@@ -1,7 +1,3 @@
-# Lee's GitHub Profile
-
-## About Me
-
 <span style="color:blue"><strong>Hello there! I'm Lee, a certified AWS Solutions Architect-Associate with developing skills in cloud computing and strong experience in problem-solving.</strong></span>
 
 ## Skills
