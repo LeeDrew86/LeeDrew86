@@ -14,7 +14,7 @@
 
 ## Currently Learning
 
-<span style="color:blue"><strong>I'm currently diving deep into Terraform and CI/CD, exploring ways to automate and streamline my projects for efficiency and scalability.</strong></span>
+<span style="color:blue"><strong>I'm currently learning Python, to support my ongoing development of cloud skills.</strong></span>
 
 ## Get in Touch
 
